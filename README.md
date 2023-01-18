@@ -6,9 +6,6 @@
   <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
 </p>
 
-
-### Hi there 👋
-
 <!--
 **Osama-Naveed/Osama-Naveed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
